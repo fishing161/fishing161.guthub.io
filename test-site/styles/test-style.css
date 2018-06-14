@@ -1,0 +1,26 @@
+html{
+	font-size:10px;
+	font-family:'open sans',sans-serif;
+	font-style:normal;
+}
+h1{
+	font-size:48px;
+	text-align:center;
+	/*text-decoration:underline;*/
+	color:blue;
+	text-shadow:-1px -1px 1px #aaa,
+             0px 4px 1px rgba(0,0,0,0.5),
+             4px 4px 5px rgba(0,0,0,0.7),
+             0px 0px 7px rgba(0,0,0,0.4);
+}
+p{	
+	font-size:10px;
+	text-align:center;
+	color:red;
+}
+img{
+	width : 500px;
+	display:block;
+	margin:auto;
+	color:blue;
+}
